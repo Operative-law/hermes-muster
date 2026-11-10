@@ -1,0 +1,5 @@
+name: muster
+version: "0.1.0"
+description: "The morning stand-up for parallel agent work: recap yesterday's threads, pick today's, and lay them out in a grid in Hermes Desktop."
+author: Neo
+requires_hermes: ">=0.22"
